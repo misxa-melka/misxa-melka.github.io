@@ -10,10 +10,6 @@ main {
     "top-box top-box top-box"
     "left-box right-box right-box"
     "bottom-box bottom-box bottom-box";
-    margin: 1.5%;
-    background-color: aliceblue;
-    border: 7px solid skyblue;
-    border-radius: 10px;
 }
 
 .top-box {
